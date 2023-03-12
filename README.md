@@ -41,6 +41,7 @@ The proposed project will span over different workpackages as follows.
 - Person-specific Modelling: as each individual possesses specific facial characteristics, person-specific classifiers will be developed and tailored to each individual to improve the detection performance.
 
 - Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
+
 <br/><br/>
 <br/><br/>
 **Project personnel**
@@ -48,6 +49,7 @@ The proposed project will span over different workpackages as follows.
 [Shervin R. Arashloo](http://www.cs.bilkent.edu.tr/~s.rahimzadeh/index.html) (principal investigator)
 
 Sepehr Nourmohammadi (research student)
+
 <br/><br/>
 <br/><br/>
 **Related publications**
@@ -59,6 +61,7 @@ Parts of our preliminary research activities associated with the current project
 2. Arashloo, S.R., “One-Class Classification Using $\ell_p$-Norm Multiple Kernel Fisher Null Approach”, Image Processing, IEEE Transactions on, 2023. DOI: 10.1109/TIP.2023.3255102.
 
 3. Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
+
 <br/><br/>
 <br/><br/>
 **References**
