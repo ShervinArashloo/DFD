@@ -42,7 +42,7 @@ The proposed project will span over different workpackages as follows.
 
 **Project personnel**
 
-[Shervin R. Arashloo] (http://www.cs.bilkent.edu.tr/~s.rahimzadeh/index.html) (principal investigator)
+[Shervin R. Arashloo] (http://www.cs.bilkent.edu.tr/~s.rahimzadeh/index.html)
 
 Sepehr Nourmohammadi (research student)
 
