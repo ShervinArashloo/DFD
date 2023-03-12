@@ -6,6 +6,7 @@ The majority of the existing DeepFake detection methods in the literature assume
 Considering that DeepFakes pose a great threat to both the individuals as well as the society as a whole, the current project aims to propose and implement new and high-performance automated techniques for the DeepFake detection problem, and to improve upon the state-of-the-art methods in the real-world and challenging conditions of DeepFake image/videos. In this context, a particular focus shall be placed on the “unseen” scenario where a test sample is generated using a DeepFake model that was not seen during the training stage of the system. 
 
 Face Manipulation Categorisation:
+
 Manipulation of faces in images/videos may be classified into four major groups based on the type and degree of manipulation involved, described next.
 
 •	Entire Face Image Synthesis: this type of face manipulation generates full non-existent facial images, typically via deep learning approaches such as Generative Adversarial Networks (GAN), e.g., by using the StyleGAN method [Karras et al., 2019]. Such techniques have managed to produce impressive outcomes, creating high definition face images with a great extent of authenticity.
