@@ -18,6 +18,7 @@ Manipulation of faces in images/videos may be classified into four major groups 
 
 
 <p align="center">
+  <"types.png">
 ![Manipulation types](types.png)
 </p>
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
