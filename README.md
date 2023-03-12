@@ -25,7 +25,7 @@ Manipulation of faces in images/videos may be classified into four major groups 
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
 
 
-**Scope of the proposed project**
+**Scope of the project**
 
 The proposed project will span over different workpackages as follows.
 
@@ -41,6 +41,7 @@ The proposed project will span over different workpackages as follows.
 - Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
 
 
+**Related publications**
 
 Parts of our preliminary research activities associated with the current project that are published are as follows.
 
