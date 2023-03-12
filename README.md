@@ -40,5 +40,5 @@ Parts of our preliminary research activities associated with the current project
 
 2-	Arashloo, S.R., “One-Class Classification Using $\ell_p$-Norm Multiple Kernel Fisher Null Approach”, Image Processing, IEEE Transactions on, 2023. DOI: 10.1109/TIP.2023.3255102.
 
-3-	Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. doi: 10.1109/TIFS.2023.3240841.
+3-	Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
 
