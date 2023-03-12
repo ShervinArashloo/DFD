@@ -43,7 +43,6 @@ The proposed project will span over different workpackages as follows.
 - Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
 
 <br/><br/>
-<br/><br/>
 **Project personnel**
 
 [Shervin R. Arashloo](http://www.cs.bilkent.edu.tr/~s.rahimzadeh/index.html) (principal investigator)
