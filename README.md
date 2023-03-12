@@ -20,7 +20,7 @@ Manipulation of faces in images/videos may be classified into four major groups 
 
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
 
-The proposed project will span over six main sub-areas as follows.
+The proposed project will span over different workpackages as follows.
 
 •	One-class classification for DF detection: novel one-class deep learning techniques, in particular deep convolutional networks, will be developed to detect deepfake face images/videos to improve the detection rate upon the state-of-the-art.
 
