@@ -21,18 +21,20 @@ Manipulation of faces in images/videos may be classified into four major groups 
 
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
 
+
 The proposed project will span over different workpackages as follows.
 
-•	One-class classification for DF detection: novel one-class deep learning techniques, in particular deep convolutional networks, will be developed to detect deepfake face images/videos to improve the detection rate upon the state-of-the-art.
+- One-class classification for DF detection: novel one-class deep learning techniques, in particular deep convolutional networks, will be developed to detect deepfake face images/videos to improve the detection rate upon the state-of-the-art.
 
-•	One-Class Ensemble learning: the performance of multiple one-class learners will be boosted via different multiple classifier fusion systems, stacking ensembles, etc.
+- One-Class Ensemble learning: the performance of multiple one-class learners will be boosted via different multiple classifier fusion systems, stacking ensembles, etc.
 
-•	One-Class Multiple Kernel Learning: the benefits offered by the reproducing kernel Hilbert space shall be utilised to devise multiple kernel systems for improved detection of deepfakes.
+- One-Class Multiple Kernel Learning: the benefits offered by the reproducing kernel Hilbert space shall be utilised to devise multiple kernel systems for improved detection of deepfakes.
 
-•	Multi-Class Novelty Detection: the deepfake detection problem shall be formulated as an open-set recognition task for which open-set classification techniques will be developed and applied where the detection system would benefit from the previously seen deepfakes while also generalising to the previously unseen fake content.
-•	Person-specific Modelling: as each individual possesses specific facial characteristics, person-specific classifiers will be developed and tailored to each individual to improve the detection performance.
+- Multi-Class Novelty Detection: the deepfake detection problem shall be formulated as an open-set recognition task for which open-set classification techniques will be developed and applied where the detection system would benefit from the previously seen deepfakes while also generalising to the previously unseen fake content.
+- Person-specific Modelling: as each individual possesses specific facial characteristics, person-specific classifiers will be developed and tailored to each individual to improve the detection performance.
 
-•	Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
+- Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
+
 
 
 Parts of our preliminary research activities associated with the current project that are published are as follows.
@@ -42,6 +44,7 @@ Parts of our preliminary research activities associated with the current project
 2-	Arashloo, S.R., “One-Class Classification Using $\ell_p$-Norm Multiple Kernel Fisher Null Approach”, Image Processing, IEEE Transactions on, 2023. DOI: 10.1109/TIP.2023.3255102.
 
 3-	Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
+
 
 
 **References**
