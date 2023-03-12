@@ -16,6 +16,7 @@ Manipulation of faces in images/videos may be classified into four major groups 
 
 •	Expression Swap: also referred to as face reenactment, involves modification of the facial expression of a subject according to the expressions of another person in a different video. Despite the existence of different manipulation techniques for this purpose [Liu et al., 2019], the most popular ones are those of Face2Face [Thies et al., 2016] and Neural Textures [Thies et al., 2019]. Some popular face reenactments include mouth reenactment (a.k.a. dubbing), gaze and pose reenactment.
 
+
 ![Manipulation types](types.png)
 
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
@@ -43,6 +44,7 @@ Parts of our preliminary research activities associated with the current project
 3-	Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
 
 
+References
 
 Karras, T., Laine, S. and Aila, T., 2019, "A Style-Based Generator Architecture for Generative Adversarial Networks," 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 4396-4405.
 
