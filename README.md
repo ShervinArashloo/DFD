@@ -42,3 +42,20 @@ Parts of our preliminary research activities associated with the current project
 
 3-	Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
 
+
+
+Karras, T., Laine, S. and Aila, T., 2019, "A Style-Based Generator Architecture for Generative Adversarial Networks," 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 4396-4405.
+
+Gonzalez-Sosa, E., Fierrez, J., Vera-Rodriguez, R. and Alonso-Fernandez, F., 2018, “Facial soft biometrics for recognition in the wild: recent works, annotation and COTS evaluation”, IEEE Trans. Inf. Forensics Secur. 13 (8), 2001–2014.
+
+Choi, Y., Choi, M., Kim, M., Ha, J., Kim, S. and Choo, J., 2018, "StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation," 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8789-8797.
+
+Liu, M., Ding, Y., Xia, M., Liu, X., Ding, E., Zuo, W. and Wen, S., 2019, “STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing”, in: Proc. IEEE/CVF Conference on Computer Vision and Pattern Recognition.
+
+Thies, J., Zollhöfer, M., Nießner, M., 2019, “Deferred neural rendering: image synthesis using neural textures”, ACM Trans. Graph. 38 (66),1–12.
+
+Mirsky, Y., and Lee, W., 2021, “The Creation and Detection of Deepfakes: A Survey”, ACM Comput. Surv. 54, 1, Article 7, April, 41 pages.
+
+
+
+
