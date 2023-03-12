@@ -1,4 +1,4 @@
-# DFD
+# Deepfake Detection Using Deep One-Class and Open-Set Recognition
 
 This is the webpage for Deepfake Detection Using Deep One-Class and Open-Set Recognition project supported by The Scientific and Technological Research Council of Turkey (T\"{U}B\.{I}TAK) under grant no 121E465.
 
