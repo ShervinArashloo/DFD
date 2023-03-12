@@ -1,7 +1,8 @@
 # Deepfake Detection Using Deep One-Class and Open-Set Recognition
 
 This is the webpage for the "Deepfake Detection Using Deep One-Class and Open-Set Recognition" project supported by The Scientific and Technological Research Council of Turkey (TÜBİTAK) under grant no 121E465.
-
+<br/><br/>
+<br/><br/>
 **Summary**
 
 Digitally manipulated face images/videos, and especially those obtained via the recent artificial intelligence and deep learning algorithms which are commonly referred to as “DeepFake” (DF) techniques, present highly realistic looking images/videos of people saying and doing fake things. Such fake content now possesses the capacity to pose a significant impact on how one may decide the validity of information spread online. Such content modification and generation techniques may affect the human rights and the quality of public discourse-especially considering that DeepFakes may be deployed maliciously as a mechanism for manipulation, misinformation, persuasion and harassment. Due to the rapid advancement of DeepFake techniques, identification and detection of digitally manipulated media has become a technically demanding and rapidly evolving major challenge.
@@ -24,8 +25,8 @@ Manipulation of faces in images/videos may be classified into four major groups 
 ![Manipulation types](types.png)
 
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
-
-
+<br/><br/>
+<br/><br/>
 **Scope of the project**
 
 The proposed project will span over different workpackages as follows.
@@ -40,13 +41,15 @@ The proposed project will span over different workpackages as follows.
 - Person-specific Modelling: as each individual possesses specific facial characteristics, person-specific classifiers will be developed and tailored to each individual to improve the detection performance.
 
 - Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
-
+<br/><br/>
+<br/><br/>
 **Project personnel**
 
 [Shervin R. Arashloo](http://www.cs.bilkent.edu.tr/~s.rahimzadeh/index.html) (principal investigator)
 
 Sepehr Nourmohammadi (research student)
-
+<br/><br/>
+<br/><br/>
 **Related publications**
 
 Parts of our preliminary research activities associated with the current project that are published are as follows.
@@ -56,9 +59,8 @@ Parts of our preliminary research activities associated with the current project
 2. Arashloo, S.R., “One-Class Classification Using $\ell_p$-Norm Multiple Kernel Fisher Null Approach”, Image Processing, IEEE Transactions on, 2023. DOI: 10.1109/TIP.2023.3255102.
 
 3. Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
-
-
-
+<br/><br/>
+<br/><br/>
 **References**
 
 Karras, T., Laine, S. and Aila, T., 2019, "A Style-Based Generator Architecture for Generative Adversarial Networks," 2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 4396-4405.
