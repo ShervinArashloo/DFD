@@ -17,3 +17,17 @@ Manipulation of faces in images/videos may be classified into four major groups 
 ![Manipulation types](types.png)
 
 Fig. 1: Different types of face image manioulations [Mirsky and Lee, 2021].
+
+The proposed project will span over six main sub-areas as follows.
+
+•	One-class classification for DF detection: novel one-class deep learning techniques, in particular deep convolutional networks, will be developed to detect deepfake face images/videos to improve the detection rate upon the state-of-the-art.
+
+•	One-Class Ensemble learning: the performance of multiple one-class learners will be boosted via different multiple classifier fusion systems, stacking ensembles, etc.
+
+•	One-Class Multiple Kernel Learning: the benefits offered by the reproducing kernel Hilbert space shall be utilised to devise multiple kernel systems for improved detection of deepfakes.
+
+•	Multi-Class Novelty Detection: the deepfake detection problem shall be formulated as an open-set recognition task for which open-set classification techniques will be developed and applied where the detection system would benefit from the previously seen deepfakes while also generalising to the previously unseen fake content.
+•	Person-specific Modelling: as each individual possesses specific facial characteristics, person-specific classifiers will be developed and tailored to each individual to improve the detection performance.
+
+•	Performance analysis on standard datasets: using standard and state-of-the-art datasets, the performance of the developed techniques will be becnhmarked and compared against the leading approaches from the literature.
+
