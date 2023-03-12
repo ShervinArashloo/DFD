@@ -52,7 +52,7 @@ Sepehr Nourmohammadi (research student)
 <br/><br/>
 **Related publications**
 
-Parts of our preliminary research activities associated with the current project that are published are as follows.
+Parts of our preliminary research activities associated with the current project are published as follows.
 
 1. Arashloo, S.R., “ℓp-Norm Support Vector Data Description”, Pattern Recognition, Elsevier, vol. 132, 108930, 2022. https://doi.org/10.1016/j.patcog.2022.108930.
 
