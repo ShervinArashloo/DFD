@@ -51,7 +51,6 @@ The proposed project will span over different workpackages as follows.
 Sepehr Nourmohammadi (research student)
 
 <br/><br/>
-<br/><br/>
 **Related publications**
 
 Parts of our preliminary research activities associated with the current project that are published are as follows.
@@ -62,7 +61,6 @@ Parts of our preliminary research activities associated with the current project
 
 3. Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
 
-<br/><br/>
 <br/><br/>
 **References**
 
