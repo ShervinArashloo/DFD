@@ -35,7 +35,7 @@ The proposed project will span over different workpackages as follows.
 
 - One-Class Ensemble learning: the performance of multiple one-class learners will be boosted via different multiple classifier fusion systems, stacking ensembles, etc.
 
-- One-Class Multiple Kernel Learning: the benefits offered by the reproducing kernel Hilbert space shall be utilised to devise multiple kernel systems for improved detection of deepfakes.
+- One-Class Multiple Kernel Learning: the benefits offered by the reproducing kernel Hilbert space shall be utilised to devise multiple kernel systems for improved detection of deepfakes. 
 
 - Multi-Class Novelty Detection: the deepfake detection problem shall be formulated as an open-set recognition task for which open-set classification techniques will be developed and applied where the detection system would benefit from the previously seen deepfakes while also generalising to the previously unseen fake content.
 - Person-specific Modelling: as each individual possesses specific facial characteristics, person-specific classifiers will be developed and tailored to each individual to improve the detection performance.
