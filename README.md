@@ -60,6 +60,12 @@ Parts of our preliminary research activities associated with the current project
 
 3. Arashloo, S.R., “Unknown Face Presentation Attack Detection via Localised Learning of Multiple Kernels”, Information Forensics and Security, IEEE Transactions on, vol. 18, pp. 1421-1432, 2023. https://doi.org/10.1109/TIFS.2023.3240841.
 
+4. Arashloo, S.R., “Large-margin multiple kernel ℓp-SVDD using Frank–Wolfe algorithm for novelty detection”, Pattern Recognition, Volume 148, 2024, 110189, ISSN 0031-3203, https://doi.org/10.1016/j.patcog.2023.110189.
+
+5. Mohammad, S. and Arashloo, S.R., “Robust one-class classification using deep kernel spectral regression”, Neurocomputing, Volume 573, 2024, 127246, ISSN 0925-2312, https://doi.org/10.1016/j.neucom.2024.127246.
+
+6. Nourmohammadi, S. and Arashloo, S.R., “ℓp-Norm Constrained One-Class Classifier Combination”, 2023, 2312.15769, arXiv.
+
 <br/><br/>
 **References**
 
